@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb-base",
+  "plugins": ["flowtype"],
+  "rules": {
+    "linebreak-style": 0,
+    "no-restricted-syntax": 0
+  }
+}
